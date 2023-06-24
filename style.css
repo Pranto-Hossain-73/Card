@@ -1,0 +1,11 @@
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+}
+.box{
+    border: 3px solid black;
+    width: 300px;
+    padding: 20px;
+}
